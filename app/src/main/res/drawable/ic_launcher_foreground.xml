@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- доска -->
+    <path android:fillColor="#FFFFFF" android:strokeColor="#37474F" android:strokeWidth="3"
+        android:pathData="M28,34 h52 a4,4 0 0 1 4,4 v32 a4,4 0 0 1 -4,4 h-52 a4,4 0 0 1 -4,-4 v-32 a4,4 0 0 1 4,-4 z" />
+    <!-- линии маркером -->
+    <path android:strokeColor="#E53935" android:strokeWidth="4" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M33,62 C40,48 46,48 50,56 S60,64 66,46" />
+    <path android:strokeColor="#1E88E5" android:strokeWidth="4" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M60,64 L76,64" />
+</vector>
